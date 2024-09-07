@@ -1,5 +1,4 @@
 # Annual-Reort-Crawling-in-Chinese-Stock-Market
-# Project Name
 
 **Project Introduction**:
 This project is mainly used to obtain the basic information of listed companies, crawl the links to the annual report PDFs, and filter and clean the data. At the same time, it uses multi-threading to download the annual reports, obtains the information of specific chapters of the annual report PDFs and converts them into txt format. Finally, it filters out the files without content based on the byte size of the obtained txt files and conducts word frequency statistics through the constructed dictionary.
